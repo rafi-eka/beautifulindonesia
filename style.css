@@ -1,0 +1,85 @@
+.jumbotron {
+    background-image: url(img3.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+    text-align: center;
+    margin-top:-140px;
+}
+.jumbotron .display-4 {
+    color: cyan;
+    margin-top: 220px;
+}
+.jumbotron p {
+    color: cyan;
+    font-size: 25px;
+}
+.jumbotron hr {
+    border-color: cyan;
+    width: 70px;
+    border-width: 3px;
+}
+.jumbotron .btn {
+    background-color: rgb(0, 174, 255);
+    border: none;
+    border-radius: 25px;
+    padding-right: 25px;
+    padding-left: 25px;
+    margin-top: 40px;
+}
+
+.carousel-item{
+    height: 750px;
+}
+.carousel-item img{
+    margin-top: 0px;
+    background-size: cover;
+    height: 900px;
+}
+.carousel-item .display-4{
+    margin-top: -440px;
+}
+.carousel-item hr {
+    border-color: cyan;
+    width: 70px;
+    border-width: 3px;
+}
+.carousel-item .btn {
+    background-color: rgb(0, 174, 255);
+    border: none;
+    border-radius: 25px;
+    padding-right: 25px;
+    padding-left: 25px;
+    margin-top: 40px;
+
+    .carousel-item {
+        height: 750px;
+    }
+
+    .carousel-item img {
+        margin-top: 0px;
+        background-size: cover;
+        height: 900px;
+    }
+
+    .container .btn {
+        background-color: rgb(0, 174, 255);
+        border: none;
+        border-radius: 25px;
+        padding-right: 25px;
+        padding-left: 25px;
+        margin-top: 600px;
+        margin-right: 1200px;
+        margin-left: -120px;
+    }
+
+    .container .btn {
+        background-color: rgb(0, 174, 255);
+        border: none;
+        border-radius: 25px;
+        padding-right: 25px;
+        padding-left: 25px;
+        margin-top: 600px;
+        margin-right: 1200px;
+        margin-left: -120px;
+    }
